@@ -1,0 +1,3 @@
+﻿  shiyan4.cpp
+D:\DAI MA\编译原理实验\编译原理实验4\shiyan4.cpp(89,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  编译原理实验4.vcxproj -> D:\DAI MA\编译原理实验\编译原理实验4\x64\Debug\编译原理实验4.exe
